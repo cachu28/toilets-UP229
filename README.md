@@ -7,6 +7,7 @@ To Doo-doo List:
 - Make our own notebooks and start doing exploratory analysis
 - Set dates when we should meet
 - Set deadlines when we hope to have things done
+	- by next Wednesday, descriptive statistics
 	
 ## Midterm Directions:
 ### We're presenting during Week 6 - May 4, 2022
