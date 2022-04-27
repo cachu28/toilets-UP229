@@ -1,7 +1,7 @@
 # toilets-UP229
  Group repo for our research project on public toilets
 
-To Do List:
+To Doo-doo List:
 
 - Make a data folder and start throwing data in
 - Make our own notebooks and start doing exploratory analysis
