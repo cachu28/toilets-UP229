@@ -1,16 +1,17 @@
-# toilets-UP229
- Group repo for our research project on public toilets
+# Group project for UP 229 Urban Data Science, Spring 2022
+## Group Members: Paola Tirado Escareno, Kevin Liu, and Carolyn Chu
 
-To Doo-doo List:
+### Research Question:
+WIP
 
-- Make a data folder and start throwing data in
-- Make our own notebooks and start doing exploratory analysis
-- Set dates when we should meet
-- Set deadlines when we hope to have things done
-	- by next Wednesday, descriptive statistics
-	
-## Midterm Directions:
-### We're presenting during Week 6 - May 4, 2022
-- These are informal presentations - give your peers a sense of what you are working on and what techniques you are using. It's a chance to cross-fertilize ideas and help each other out
-- Keep to 4 minutes maximum - 2-3 minutes is fine. Not everyone in your group needs to speak if that would take up too much time
-- You can use slides or show a notebook or just talk without visual aids
+### Data Sources:
+- **LACAN's Handwashing Station** [Link](http://skidrowpower.com/handwashing/)
+The Los Angeles Community Action Network (LACAN) is a social service and advocacy agency working to organize and empower downtown and South Central L.A. residents dealing with poverty. Their map is built on top of the geocoded data from LAHSA. We were able to download this data as a KML file, then convert it into a CSV that's more useful for our purposes.
+
+- **LA Parks**[Link]()
+We are still working to either scrape this information from the Parks website or to pull and clean data from the LA Open Data Portal.
+
+-**LA Public Libraries** [Link]()
+We are still working to wrangle data either from the County Library API or the City's Open Data Portal.
+
+[Link to our Midterm Presentation](https://docs.google.com/presentation/d/1zg8gr0WZA8f7jhdriqbgbbaRfGTXtuBbb20xWPOFCPY/edit?usp=sharing)
