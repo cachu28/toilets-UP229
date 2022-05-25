@@ -1,36 +1,36 @@
 ,name,address,lat,lon
 0,Augustus F. Hawkins Natural Park,"57905790 Compton Ave., Los Angeles, CA 90011",34.0138605,-118.2478636
 1,Bird Sanctuary,"2900 N. Vermont Ave., Los Angeles, CA 90027",34.1051764,-118.2918046
-2,Bishop Canyon,"929 Academy Rd., Los Angeles, CA 90012",34.079904034795675,-118.23658995555353
-3,Brand Park,"15174 San Fernando Mission Rd., Mission Hills, CA 91345",,
-4,Branford Recreation Center,"13306 Branford Street, Arleta, CA 91331",34.23350738888889,-118.42319333333333
-5,Cabrillo Beach Bath House,"3800 Stephen M. White Drive, San Pedro, CA",,
+2,Bishop Canyon,"929 Academy Rd., Los Angeles, CA 90012",34.07990403,-118.23659
+3,Brand Park,"15174 San Fernando Mission Rd., Mission Hills, CA 91345",34.27229431,-118.4611583
+4,Branford Recreation Center,"13306 Branford Street, Arleta, CA 91331",34.23350739,-118.4231933
+5,Cabrillo Beach Bath House,"3800 Stephen M. White Drive, San Pedro, CA",33.70964917,-118.2840531
 6,Chavez Ravine Arboretum,"Chavez Ravine Rd, Los Angeles, CA 90012",34.066645,-118.2411523
 7,Denker Recreation Center,"1550 W. 35th Place, Los Angeles, CA 90018",34.02363,-118.304565
-8,Elysian Park,"929 Academy Road, Los Angeles, CA 90012",34.079904034795675,-118.23658995555353
-9,Encino Park,"16953 Ventura Blvd., Encino, CA 91316",34.159675516129035,-118.50250548387096
+8,Elysian Park,"929 Academy Road, Los Angeles, CA 90012",34.07990403,-118.23659
+9,Encino Park,"16953 Ventura Blvd., Encino, CA 91316",34.15967552,-118.5025055
 10,Gladys Park,"6th & Gladys St., Los Angeles, CA 90021",34.0400671,-118.241897
-11,Griffith Park,"4730 Crystal Springs Drive, Los Angeles, CA 90027",34.140603999999996,-118.29651118079025
-12,Harbor Sports Center,"1221 N. Figueroa Place, Wilmington, CA 90744",,
+11,Griffith Park,"4730 Crystal Springs Drive, Los Angeles, CA 90027",34.140604,-118.2965112
+12,Harbor Sports Center,"1221 N. Figueroa Place, Wilmington, CA 90744",33.78646824,-118.2836662
 13,Hjelte Sports Center,"16200 Burbank Blvd., Encino, CA 91436",34.17044,-118.478059
-14,Irving Schachter Park (formerly Beverwill Mini Park),"2599 Beverwill Dr., Los Angeles, CA 90064",,
+14,Irving Schachter Park (formerly Beverwill Mini Park),"2599 Beverwill Dr., Los Angeles, CA 90064",34.03992272,-118.3989888
 15,LA High Memorial Park,"4625 West Olympic Blvd., Los Angeles, CA 90019",34.0564765,-118.3319085
-16,Lake Balboa/Anthony C. Bielenson Park,"6300 Balboa Blvd, Lake Balboa, CA 91406",34.184134774734254,-118.50100586842363
+16,Lake Balboa/Anthony C. Bielenson Park,"6300 Balboa Blvd, Lake Balboa, CA 91406",34.18413477,-118.5010059
 17,Lincoln Park Lake,"3501 Valley Blvd., Los Angeles, CA 90031",34.065574,-118.20203
-18,Mae Boyar Park,"23936 Highlander Rd., Canoga Park, CA 91307",,
-19,Montecillo de Leo Politi Park,"On Stadium between Scott Road & Academy Road, Los Angeles, CA 90012",,
+18,Mae Boyar Park,"23936 Highlander Rd., Canoga Park, CA 91307",34.19540923,-118.6473883
+19,Montecillo de Leo Politi Park,"On Stadium between Scott Road & Academy Road, Los Angeles, CA 90012",34.07815636,-118.2468129
 20,North Atwater Park,"3900 W. Chevy Chase Dr., Los Angeles, CA 90039",34.1334134,-118.2709952
-21,Orcutt Ranch Horticultural Center & Community Garden,"23600 Roscoe Blvd., West Hills, CA 91304",,
+21,Orcutt Ranch Horticultural Center & Community Garden,"23600 Roscoe Blvd., West Hills, CA 91304",34.21839306,-118.6404016
 22,Pan Pacific Park,"7600 Beverly Blvd., Los Angeles, CA 90036",34.0761337,-118.3525295
 23,Pan Pacific Park Recreation Center,"7600 Beverly Blvd., Los Angeles, CA 90036",34.0761337,-118.3525295
-24,Park Center (Griffith Park),"4730 Crystal Springs Dr., Los Angeles, CA 90027",34.140603999999996,-118.29651118079025
-25,Pecan Recreation Center,"145 S. Pecan St., Los Angeles, CA 90033",34.046832,-118.22183466666667
-26,Queen Anne Recreation Center,"1240 West Blvd., Los Angeles, CA 90019",34.05046608695652,-118.33289504347826
+24,Park Center (Griffith Park),"4730 Crystal Springs Dr., Los Angeles, CA 90027",34.140604,-118.2965112
+25,Pecan Recreation Center,"145 S. Pecan St., Los Angeles, CA 90033",34.046832,-118.2218347
+26,Queen Anne Recreation Center,"1240 West Blvd., Los Angeles, CA 90019",34.05046609,-118.332895
 27,Roger Jessup Park,"12467 Osborne St, Pacoima, CA 91331",34.2512763,-118.4134847
 28,Runnymede Park,"20200 Runnymede St., Winnetka, CA 91306",34.205829,-118.572938
 29,Sepulveda Basin Recreation Area,"17017 Burbank Blvd., Encino, CA 91316",34.1714384,-118.4986296
-30,Serrania Park,"20726 Wells Dr., Woodland Hills, CA 91364",,
-31,South Los Angeles Sports Activity Center,"7020 S. Figueroa St. Los Angeles, 90003",33.97594887804878,-118.2825710487805
+30,Serrania Park,,34.15702206,-118.5862965
+31,South Los Angeles Sports Activity Center,"7020 S. Figueroa St. Los Angeles, 90003",33.97594888,-118.282571
 32,Temescal Canyon Park,"15900 Pacific Coast Hwy., Pacific Palisades, CA 90272",34.0271938,-118.5176043
 33,Valley Village Park,"5000 Westpark Drive, North Hollywood, CA 91601",34.163186,-118.382549
 34,Woodley Park,"6350 Woodley Ave., Van Nuys, CA 91436",34.1869171,-118.4836561
